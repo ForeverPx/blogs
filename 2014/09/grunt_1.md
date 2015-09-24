@@ -8,6 +8,7 @@
 - jade
 - JS Hint
 - watch
+
 ​下面我们就以less为例，来看看如何使用grunt来把less编译为css并压缩。
 ​首先我们要通过npm安装grunt命令行（CLI）到全局变量中
 ```bash
