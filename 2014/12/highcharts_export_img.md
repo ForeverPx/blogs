@@ -64,12 +64,13 @@ app.post("/highchartsConvert",function(req,res,next){
 整个转换过程走了两个服务器，首先将图表数据发送到nodejs端，然后再转发到phantomjs的服务器。中间用node中转一下是因为要进行某些验证。
 下面是可以传的参数列表：
 
-infile：图表的svg代码或者options
-outfile：输出图片的路径+文件名
-constr：图表类型
-width：图表在phantomjs中渲染的宽度
-height：图表在phantomjs中渲染的高度
-callback：图表在phantomjs中渲染完成后执行
+- infile：图表的svg代码或者options
+- outfile：输出图片的路径+文件名
+- constr：图表类型
+- width：图表在phantomjs中渲染的宽度
+- height：图表在phantomjs中渲染的高度
+- callback：图表在phantomjs中渲染完成后执行
+
 更多信息请参考
 RENDER CHARTS ON THE SERVER
 IMPROVED IMAGE EXPORT WITH PHANTOMJS
