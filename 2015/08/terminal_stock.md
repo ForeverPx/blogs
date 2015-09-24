@@ -13,5 +13,5 @@ API：
 
 支持代理配置
  
-文章原文csdn链接：[https://github.com/ForeverPx/blogs/blob/master/2015/08/terminal_stock.md](https://github.com/ForeverPx/blogs/blob/master/2015/08/terminal_stock.md)
+文章原文链接：[https://github.com/ForeverPx/blogs/blob/master/2015/08/terminal_stock.md](https://github.com/ForeverPx/blogs/blob/master/2015/08/terminal_stock.md)
 转载请注明出处。
