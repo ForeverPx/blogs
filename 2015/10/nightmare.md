@@ -42,4 +42,4 @@
 
 #项目主页
 更多的API和文档可以在`nightmare`的主页中查看：
-[1](https://github.com/segmentio/nightmare)
+[https://github.com/segmentio/nightmare](https://github.com/segmentio/nightmare)
