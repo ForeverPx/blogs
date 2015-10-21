@@ -47,7 +47,8 @@ select * from user where username = '?' union select 1,load_file(0x1111111111111
 load_file传入的是文件路径的16进制值，返回的结果中就会将该文件的内容返回到对应列中。
 
 #防御sql注入
-1.在java中使用prepareStatement接口，该接口在生成sql时会将输入的字符串逐个字符检查并转义来防止注入。
+1.在java中使用prepareStatement接口，改接口使用的数据库的预编译功能，将需要执行的sql都预先进行编译并缓存起来，传入的参数
+会完全被当做是值，并不会跟sql语句发生任何关系，即改变不了sql的逻辑，所以能防止sql注入。
 
 2.对输入的类型进行判断，在id=1的情况下，只允许输入参数为整形，而不允许为字符串。
 
