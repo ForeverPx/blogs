@@ -21,7 +21,7 @@ When sending data to the server, use this content type. Default is "application/
 
 下面看下OPTIONS请求的返回图
 
-![](http://o929v8ilh.bkt.clouddn.com/045DA4EC-7C23-494B-B0D7-BC681AA7A37A.png)
+![](http://o929v8ilh.bkt.clouddn.com/045DA4EC-7C23-494B-B0D7-BC681AA7A37A_meitu_1.jpg)
 
 图中箭头指向的Allow就是服务器返回的支持的方法。
 
