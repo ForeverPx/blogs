@@ -23,3 +23,11 @@
          - [Grunt入门教程之三][4]
          - [Hexo免输入密码部署到github][5]
          - [初识ServiceWorker][6]
+
+
+  [1]: https://github.com/ForeverPx/blogs/blob/master/2014/09/crul_function.md
+  [2]: https://github.com/ForeverPx/blogs/blob/master/2014/09/grunt_1.md
+  [3]: https://github.com/ForeverPx/blogs/blob/master/2014/09/grunt_2.md
+  [4]: https://github.com/ForeverPx/blogs/blob/master/2014/09/grunt_3.md
+  [5]: https://github.com/ForeverPx/blogs/blob/master/2014/09/hexo_nopw_github.md
+  [6]: https://github.com/ForeverPx/blogs/blob/master/2014/09/service_worker.md
