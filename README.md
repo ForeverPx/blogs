@@ -30,7 +30,7 @@
         - [Linux中npm出现npmlog找不到的解决方法][9]
         - [Uploadify404无效链接][10]
     - 12
-        - [Highcharts使用phantomjs导出图片][11] 
+        - [Highcharts使用phantomjs导出图片][11]
 - 2015
     - 01
         - [​IntellijIDEA使用GIT Push的问题][12]
@@ -50,17 +50,17 @@
         - [React，用组件化思想写前端代码][21]
         - [读圣凯法师“入世与出世”有感][22]3
     - 10
-        - [Nightmare][23] 
+        - [Nightmare][23]
         - [什么是sql注入？][24]
         - [北京游][25]
     - 11
-        - [IE8下元素背景为透明时，hover事件失效的bug][26] 
+        - [IE8下元素背景为透明时，hover事件失效的bug][26]
         - [移动web开发之——viewport][27]
     - 12
         - [移动web开发之——iso中的video][28]
 - 2016
     - 01
-        - [安卓微信浏览器中location.href失效的问题][29] 
+        - [安卓微信浏览器中location.href失效的问题][29]
         - [iScroll在安卓下无法点击的问题][30]
         - [localStorage在无痕模式下被禁用的问题][31]
     - 05
@@ -68,9 +68,11 @@
         - [localstorage使用不严谨之坑][33]
     - 06
         - [跨域Ajax之ContentType:application/json][34]
-    
-             
-         
+    - 08
+        - [HTML5 input file 打开很慢的问题][35]
+
+
+
 
 
   [1]: https://github.com/ForeverPx/blogs/blob/master/2014/09/crul_function.md
@@ -107,3 +109,4 @@
   [32]: https://github.com/ForeverPx/blogs/blob/master/2016/05/history_hash.md
   [33]: https://github.com/ForeverPx/blogs/blob/master/2016/05/hole_in_localstorage.md
   [34]: https://github.com/ForeverPx/blogs/blob/master/2016/06/cross_content_type.md
+  [35]: https://github.com/ForeverPx/blogs/blob/master/2016/08/html5_input_file_bug.md
