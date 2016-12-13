@@ -70,6 +70,8 @@
         - [跨域Ajax之ContentType:application/json][34]
     - 08
         - [HTML5 input file 打开很慢的问题][35]
+    - 10
+        - [git关联本地与远程分支][36]
 
 
 
@@ -110,3 +112,4 @@
   [33]: https://github.com/ForeverPx/blogs/blob/master/2016/05/hole_in_localstorage.md
   [34]: https://github.com/ForeverPx/blogs/blob/master/2016/06/cross_content_type.md
   [35]: https://github.com/ForeverPx/blogs/blob/master/2016/08/html5_input_file_bug.md
+  [36]: https://github.com/ForeverPx/blogs/blob/master/2016/10/git_upstream.md
