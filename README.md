@@ -72,6 +72,8 @@
         - [HTML5 input file 打开很慢的问题][35]
     - 10
         - [git关联本地与远程分支][36]
+    - 12
+        - [Nodejs连接redis遇到的坑][37]
 
 
 
@@ -113,3 +115,4 @@
   [34]: https://github.com/ForeverPx/blogs/blob/master/2016/06/cross_content_type.md
   [35]: https://github.com/ForeverPx/blogs/blob/master/2016/08/html5_input_file_bug.md
   [36]: https://github.com/ForeverPx/blogs/blob/master/2016/10/git_upstream.md
+  [37]: https://github.com/ForeverPx/blogs/blob/master/2016/12/node_redis.md
