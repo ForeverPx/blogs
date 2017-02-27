@@ -74,6 +74,9 @@
         - [git关联本地与远程分支][36]
     - 12
         - [Nodejs连接redis遇到的坑][37]
+- 2017
+    - 02
+        - [Zepto在跨域时无法带上cookie的bug][38]
 
 
 
@@ -116,3 +119,4 @@
   [35]: https://github.com/ForeverPx/blogs/blob/master/2016/08/html5_input_file_bug.md
   [36]: https://github.com/ForeverPx/blogs/blob/master/2016/10/git_upstream.md
   [37]: https://github.com/ForeverPx/blogs/blob/master/2016/12/node_redis.md
+  [38]: https://github.com/ForeverPx/blogs/blob/master/2017/02/zepto_cookie_bug.md
