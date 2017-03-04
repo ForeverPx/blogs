@@ -20,7 +20,7 @@ d("<script language=VBScript>"); //error Invalid calling object
 `解决这个报错的方案是显示提供适当的调用对象，或使用 JavaScript 的 bind API 将隐式调用对象与该方法关联。`
 
 ```js
-d.call(document, "<script language="VBScript">”);
+d.call(document, '<script language="VBScript">');
 
 or
 

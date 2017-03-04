@@ -77,6 +77,8 @@
 - 2017
     - 02
         - [Zepto在跨域时无法带上cookie的bug][38]
+    - 03
+        - [Echart在使用webpack打包之后，IE10+中无法渲染的问题][39]
 
 
 
@@ -120,3 +122,4 @@
   [36]: https://github.com/ForeverPx/blogs/blob/master/2016/10/git_upstream.md
   [37]: https://github.com/ForeverPx/blogs/blob/master/2016/12/node_redis.md
   [38]: https://github.com/ForeverPx/blogs/blob/master/2017/02/zepto_cookie_bug.md
+  [39]: https://github.com/ForeverPx/blogs/blob/master/2017/03/echart_wepack_ie11.md
