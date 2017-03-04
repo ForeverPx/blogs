@@ -4,7 +4,7 @@
 
 错误指向的是Echart依赖的Zrender模块的requestAnimationFrame模块，指示requestAnimationFrame方法调用失败
 
-查阅MSDN关于IE兼容差异的文档，发现有一篇叫做 ![函数指针方法调用](https://msdn.microsoft.com/library/gg622930(v=vs.85).aspx) 的文章
+查阅MSDN关于IE兼容差异的文档，发现有一篇叫做 [函数指针方法调用](https://msdn.microsoft.com/library/gg622930(v=vs.85).aspx) 的文章
 
 文章大意如下：
 
